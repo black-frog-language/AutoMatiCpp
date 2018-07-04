@@ -3,6 +3,7 @@
 
 *by Zoran Chen*
  -- HISTORY --
+ 
  AutoMatiC++的“发明”，其实是来自于@trustgit的一个玩笑。
  他当时跟我说出c++接龙的想法，于是，我就想到了一种方法可以更顺畅的玩这个c++接龙。
  Automatic++应该是可以有GUI的（这也是为什么用Python开发的原因），可以像图形化脚本语言scratch一样，让初学者也懂得如何去做。
