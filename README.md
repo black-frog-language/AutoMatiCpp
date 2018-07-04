@@ -34,4 +34,10 @@
  
 7.sentence
 
-8.
+8.class
+
+9.enum
+
+10.std
+
+11.users
