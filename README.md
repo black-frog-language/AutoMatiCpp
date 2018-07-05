@@ -1,4 +1,4 @@
-# AutoMatiCpp
+   # AutoMatiCpp
 按钮版专注于面向对象的c++
 
 *by Zoran Chen*
@@ -20,14 +20,14 @@
  
  NEW中含有c++主要的类型。按大类分可以分为：
  
-1. value
-2. array 
-3. function
-4. pointer
-5. reference
-6. typedef
-7. sentence
-8. class
-9. enum
-10. std
-11. users
+1. value       变量
+2. array       数组
+3. function    函数
+4. pointer     指针
+5. reference   引用
+6. typedef     类定义
+7. sentence    语句
+8. class       类 
+9. enum        枚举
+10. std        引用头文件新的类型
+11. users      自己定义的类型
