@@ -20,14 +20,14 @@
  
  NEW中含有c++主要的类型。按大类分可以分为：
  
-1.value
-2.array 
-3.function
-4.pointer
-5.reference
-6.typedef
-7.sentence
-8.class
-9.enum
-10.std
-11.users
+1. value
+2. array 
+3. function
+4. pointer
+5. reference
+6. typedef
+7. sentence
+8. class
+9. enum
+10. std
+11. users
