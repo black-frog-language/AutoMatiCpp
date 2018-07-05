@@ -3,7 +3,7 @@
 
 *by Zoran Chen*
 
- -- HISTORY --
+## -- HISTORY --
  
  AutoMatiC++的“发明”，其实是来自于@trustgit的一个玩笑。
  他当时跟我说出c++接龙的想法，于是，我就想到了一种方法可以更顺畅的玩这个c++接龙。
@@ -14,30 +14,20 @@
  
  
  
- -- INTRODUCTTION --
+## -- INTRODUCTTION --
  
  automatic++一共有2大模块，一个叫“NEW”，一个叫“EDIT”。一个可以新建一个对象，另一个可以编辑对象的内容。
  
  NEW中含有c++主要的类型。按大类分可以分为：
  
- 1.value
- 
- 2.array
- 
+1.value
+2.array 
 3.function
- 
 4.pointer
-
 5.reference
-
 6.typedef
- 
 7.sentence
-
 8.class
-
 9.enum
-
 10.std
-
 11.users
