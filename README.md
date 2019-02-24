@@ -28,6 +28,5 @@
 6. typedef     类定义
 7. sentence    语句
 8. class       类 
-9. enum        枚举
 10. std        引用头文件新的类型
 11. users      自己定义的类型
