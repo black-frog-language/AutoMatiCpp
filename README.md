@@ -1,6 +1,6 @@
    # AutoMatiCpp
 按钮版专注于面向对象的c++
-
+automatic++将在作者决定用哪种贵框架之后马上填坑
 *by Zoran Chen*
 
 ## -- HISTORY --
