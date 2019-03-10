@@ -1,6 +1,6 @@
    # AutoMatiCpp
 按钮版专注于面向对象的c++  
-automatic++将在作者决定用哪种贵框架之后马上填坑
+
 *by Zoran Chen*
 
 ## -- HISTORY --
@@ -14,19 +14,3 @@ automatic++将在作者决定用哪种贵框架之后马上填坑
  
  
  
-## -- INTRODUCTTION --
- 
- automatic++一共有2大模块，一个叫“NEW”，一个叫“EDIT”。一个可以新建一个对象，另一个可以编辑对象的内容。
- 
- NEW中含有c++主要的类型。按大类分可以分为：
- 
-1. value       变量
-2. array       数组
-3. function    函数
-4. pointer     指针
-5. reference   引用
-6. typedef     类定义
-7. sentence    语句
-8. class       类 
-10. std        引用头文件新的类型
-11. users      自己定义的类型
